@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(version: 2019_05_06_134430) do
   enable_extension "plpgsql"
 
   create_table "playlists", force: :cascade do |t|
-    t.integer "user_id"
+    t.integer "theme_id"
     t.integer "song_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -32,9 +32,9 @@ ActiveRecord::Schema.define(version: 2019_05_06_134430) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "users", force: :cascade do |t|
-    t.string "username"
-    t.string "fav_genre"
+  create_table "themes", force: :cascade do |t|
+    t.string "title"
+    t.string "genre"
     t.string "mood"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
