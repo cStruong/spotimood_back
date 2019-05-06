@@ -63,7 +63,6 @@ Song.create(title: "Take A Bow", artist: "Rihanna", mood: "Angry", genre: "Pop",
 Song.create(title: "What Makes You Beautiful", artist: "One Direction", mood: "Relaxed", genre: "Pop", url: "https://www.youtube.com/embed/QJO3ROT-A4E")
 
 
-rock 2 lit, 2 happy, 1 angry, 1 relaxed
 
 Song.create(title: "Perfect", artist: "Simple Plan", mood: "Sad", genre: "Rock", url: "https://www.youtube.com/embed/RUi54JTgL5s")
 Song.create(title: "Untitled", artist: "Simple Plan", mood: "Sad", genre: "Rock", url: "https://www.youtube.com/embed/ZQ7oqmikZDQ")
@@ -95,5 +94,85 @@ Song.create(title: "It's My Life", artist: "Bon Jovi", mood: "Lit", genre: "Rock
 Song.create(title: "Livin' On A Prayer", artist: "Bon Jovi", mood: "Happy", genre: "Rock", url: "https://www.youtube.com/embed/lDK9QqIzhwk")
 Song.create(title: "The Pretender", artist: "Foo Fighters", mood: "Angry", genre: "Rock", url: "https://www.youtube.com/embed/SBjQ9tuuTJQ")
 
+Song.create(title:"Suicidal Thoughts", artist:"The Notorious B.I.G.", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/GygEAcFFMVs" )
+Song.create(title:"Marvin's Room", artist:"Drake", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/JDb3ZZD4bA0" )
+Song.create(title:"u", artist:"Kendrick Lamar", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/QiTAqBKqJks" )
+Song.create(title:"Summertime", artist:"Vince Staples", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/lYSJU0MW-Ro" )
+Song.create(title:"Acid Rain", artist:"Chance the Rapper", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/U1AOoHSijIk" )
+Song.create(title:"Moon River", artist: "Frank Ocean", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/U1AOoHSijIk" )
+Song.create(title:"8 Million Stories", artist:"A Tribe Called Quest", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/KU1aVvP4f-E" )
+Song.create(title:"Ballad of Worms", artist:"Cage", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/embed/Uqir_N9nkTA" )
+Song.create(title:"Stay", artist:"Rihanna", mood:"sad", genre:"Hip hop", url:"https://www.youtube.com/watch?v=JF8BRvqGCNs" )
+
+Song.create(title:"Act Up", artist:"City Girls", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/UrfIZgAfhAM" )
+Song.create(title:"Numb Numb Juice", artist:"ScHoolboy Q", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/5_qAwMHhkwQ" )
+Song.create(title:"Big Ole Freak", artist:"Megan Thee Stallion", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/oBYf6gpVvRA" )
+Song.create(title:"Nice For What", artist:"Drake", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/U9BwWKXjVaI" )
+Song.create(title:"Upgrade u", artist:"Beyonce ft. Jay Z", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/6nr8hPnZfMU" )
+Song.create(title:"Money", artist:"Cardi B", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/zUOh09GoQgk" )
+Song.create(title:"Thotiana", artist:"Blueface", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/V6EpIABAKKo" )
+Song.create(title:"APESHIT", artist:"The Carters", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/V6EpIABAKKo" )
+Song.create(title:"REEL IT IN", artist:"Amine", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/QIwWYXJbxGY" )
+Song.create(title:"ICY GRL", artist:"Saweetie", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/Wji4b2jjYOk" )
+Song.create(title:"Work", artist:"Rihanna ft. Drake", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/puxjq3p-fU0" )
+Song.create(title:"Lose Control", artist:"Missy Elliot ft. Ciara & Fatman Scoop", mood:"lit", genre:"Hip hop", url:"https://www.youtube.com/embed/na7lIb09898" )
 
 
+Song.create(title:"Broccoli", artist:"Dram ft. Lil Yachty", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/K44j-sb1SRY" )
+Song.create(title:"No Problem", artist:"Chance the Rapper ft. 2 Chainz & Lil Wayne", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/DVkkYlQNmbc" )
+Song.create(title:"Hey Ya!", artist:"OutKast", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/PWgvGjAhvIw" )
+Song.create(title:"Up Up Away", artist:"", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/qRPpLGxGNZY" )
+Song.create(title:"Party", artist:"Beyonce ft. J. Cole", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/XWCwc1_sYMY" )
+Song.create(title:"Hello", artist:"Erykah Badu", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/KXGqHYNTNHU" )
+Song.create(title:"Love On Top", artist:"Beyonce", mood:"happy", genre:"Hip hop", url:"https://www.youtube.com/embed/Ob7vObnFUJc" )
+
+
+Song.create(title:"Sorry", artist:"Beyonce", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/QxsmWxxouIM" )
+Song.create(title:"gun smoke", artist:"21 Savage", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/HdgsbpNlJyM" )
+Song.create(title:"Energy", artist:"Drake", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/7LnBvuzjpr4" )
+Song.create(title:"Knuck If You Buck", artist:"Crime Mob", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/9saEpqhBP5M" )
+Song.create(title:"Can't Tell Me Nothing", artist:"Kanye", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/E58qLXBfLrs" )
+Song.create(title:"Worst Behavior", artist:"Drake", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/CccnAvfLPvE" )
+Song.create(title:"Break The Bank", artist:"Schoolboy Q", mood:"angry", genre:"Hip hop", url:"https://www.youtube.com/embed/rc-Vqcud32I" )
+Song.create(title:"Alright", artist:"Kendrick Lamar", mood:"angry", genre:"Hip hop", url:"" )
+
+
+
+Song.create(title:"9", artist:"Willow & SZA", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/usuHRa9MNIc" )
+Song.create(title:"Pink + White", artist:"Frank Ocean", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/uzS3WG6__G4" )
+Song.create(title:"After The Storm", artist:"Kali Uchis ft. Tyler The Creator & Bootsy Collins", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/9f5zD7ZSNpQ" )
+Song.create(title:"While We're Young", artist:"Jhene Aiko", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/LjvwRSKVQNs" )
+Song.create(title:"Down", artist:"Chloe x Halle", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/4PP9CrGZolY" )
+Song.create(title:"Feather", artist:"Nujabes", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/M-BWXT3UBns" )
+Song.create(title:"Get You", artist:"Daniel Ceasar ft. Kali Uchis", mood:"relaxed", genre:"Hip hop", url:"" )
+Song.create(title:"", artist:"Daniel Ceasar ft. Kali Uchis", mood:"relaxed", genre:"Hip hop", url:"" )
+Song.create(title:"Cranes in the Sky", artist:"Solange", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/S0qrinhNnOM" )
+Song.create(title:"Slow Down", artist:"Mac Ayres", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/bASJnkX60go" )
+Song.create(title:"CPR", artist:"Summer Walker", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/1eomjy9Xy3M" )
+Song.create(title:"Bad Blood", artist:"Nao", mood:"relaxed", genre:"Hip hop", url:"https://www.youtube.com/embed/RSXhN7Pa4tk" )
+
+
+
+Song.create(title:"That's What I Love About Sunday", artist:"Craig Morgan", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/pm3aCyRD3Vg")
+Song.create(title:"Toes", artist:"Zac Brown Band", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/lB8Nkn3Xjes")
+Song.create(title:"No Shoes, No Shirt, No Problem", artist:"Kenny Chesney", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/-01jhW_Yzhs")
+Song.create(title:"Pontoon", artist:"Little Big Town", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/V0O0nzkESTI")
+Song.create(title:"Strawberry Wine", artist:"Deana Carter", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/Up06CryWQpE")
+Song.create(title:"Waitin' On A Woman", artist:"Brad Paisley", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/M-C-IbkuNWs")
+Song.create(title:"When You Say Nothing At All", artist:"Alison Krauss", mood:"relaxed", genre:"Country", url:"https://www.youtube.com/embed/1SCOimBo5tg")
+
+Song.create(title:"The Thunder Rolls", artist:"Garth Brooks", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/N7KNiPbPccU")
+Song.create(title:"Before he Cheats", artist:"Carrie Underwood", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/WaSy8yy-mr8")
+Song.create(title:"A Boy Named Sue", artist:"Johnny Cash", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/WOHPuY88Ry4")
+Song.create(title:"Gunpowder and Lead", artist:"Miranda Lambert", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/aWQdEDtveB0")
+Song.create(title:"These Boots Are Made for Walkin", artist:"Nancy Sinatra", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/MnQcExGaEvk")
+Song.create(title:"Goodbye Earl", artist:"Dixie Chicks", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/Gw7gNf_9njs")
+Song.create(title:"Two Black Cadillacs", artist:"Carrie Underwood", mood:"angry", genre:"Country", url:"https://www.youtube.com/embed/oVEBZLrjpw4")
+
+Song.create(title:"She Thinks His Name Was John", artist:"Reba McEntire", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/jHmNksnUFdc")
+Song.create(title:"Concrete Angel", artist:"Martina McBride", mood:"sad", genre:"Country", url:"")
+Song.create(title:"What Hurts The Most", artist:"Rascal Flatts", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/7qH4qyi1-Ys")
+Song.create(title:"The Dance", artist:"Garth Brooks", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/bpwdwbO1uvM")
+Song.create(title:"Fire Away", artist:"Chris Stapleton", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/ZI-aPHeUDlk")
+Song.create(title:"Hurt", artist:"Johnny Cash", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/vt1Pwfnh5pc")
+Song.create(title:"Tonight I Wanna Cry", artist:"Keith Urban", mood:"sad", genre:"Country", url:"https://www.youtube.com/embed/fmO1u3ONYg8")
