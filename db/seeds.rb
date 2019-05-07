@@ -7,6 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Song.destroy_all
+Playlist.destroy_all
+Theme.destroy_all
 
 chris = Theme.create(title: "Litty", mood: "Lit", genre: "Pop")
 sadie = Theme.create(title: "Sad Times", mood: "Sad", genre: "Pop")
