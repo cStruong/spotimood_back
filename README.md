@@ -1,24 +1,17 @@
-# README
+# SpotiMood (Backend)
+[FrontEnd](https://github.com/cStruong/spotimood_front)
+---
+SpotiMood is our Module 4 project where we were first introduced to the React library to build a Single Page Application on a  "virtual" DOM. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+SpotiMood is a web application that allows users to create a playlist that is pre-filled based on their mood and genre preferences whose UI is modeled and inspired by Spotify. Playlist comes with pre-filled songs seeded from a database. Each song card contains song information along with an embedded youtube video.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## Tech
+SpotiMood was built using React on the frontend as a single page web application while using a backend API built using Ruby on Rails.
 
-* System dependencies
+---
 
-* Configuration
+![Example Playlist Page](./assets/spotimoodscreenshot.png)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
