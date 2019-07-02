@@ -1,5 +1,5 @@
 # SpotiMood (Backend)
----
+
 [FrontEnd](https://github.com/cStruong/spotimood_front)
 
 SpotiMood is our Module 4 project where we were first introduced to the React library to build a Single Page Application on a  "virtual" DOM. 
