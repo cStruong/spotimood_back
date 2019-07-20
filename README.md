@@ -31,4 +31,4 @@ rails s -p 3005
 ## Site <a name="site"></a>
 ### Example Page
 
-![Example Playlist Page](./src/assets/spotimoodexampleAPI.png)
+![Example API Page](./src/assets/spotimoodexampleAPI.png)
