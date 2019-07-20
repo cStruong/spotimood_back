@@ -10,26 +10,25 @@ SpotiMood is a web application that allows users to create a playlist that is pr
 1. [Technologies](#technologies)
 2. [Setup](#setup)
 3. [Site](#site)
-4. [Acknowlegements](#acknowledgements)
 
 ## Technologies<a name="technologies"></a>
-This project is created using: 
-* React ([React.js](https://reactjs.org/)) - a JavaScript library which is the core of this application's UI.
+* [Ruby on Rails](https://rubyonrails.org/) - a Ruby framework which is used to build the API to store user data via PosgreSQL.
 
 ## Setup / Startup (locally) <a name="setup"></a>
-To run this project locally, while in the project directory run
+To run this project locally, while in the project directory run (make sure PosgreSQL is running)
 ```
-npm install && npm start
+bundle install
 ```
-*note: in order to persist any changes/creations the [backend](https://github.com/cStruong/spotimood_back) must be started as well.*
+then
+```
+rails db:create && rails db:migrate && rails db:seed
+```
+to finally start the server
+ ```
+rails s -p 3005
+```
 
 ## Site <a name="site"></a>
 ### Example Page
 
 ![Example Playlist Page](./src/assets/spotimoodscreenshot.png)
-
-
-## Acknowledgements<a name="acknowledgements"></a>
-* The UI was inspired by Spotify
-
-
