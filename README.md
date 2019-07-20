@@ -41,3 +41,7 @@ or
 ```
 localhost:3005/songs
 ```
+or
+```
+localhost:3005/themes
+```
