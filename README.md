@@ -49,7 +49,7 @@ localhost:3005/themes
 
 ## Authors <a name="authors"></a>
 
-| <img src="https://avatars0.githubusercontent.com/u/46384458?s=460&v=4" alt="alt text" width="10%" height="10%"> | 
-<img src="https://avatars1.githubusercontent.com/u/45888821?s=460&v=4" alt="alt text" width="10%" height="10%"> 
+| <img src="https://avatars0.githubusercontent.com/u/46384458?s=460&v=4" alt="Author Chris" width="10%" height="10%"> | 
+<img src="https://avatars1.githubusercontent.com/u/45888821?s=460&v=4" alt="Author Sadie" width="10%" height="10%"> 
 | :-: | :-: |
 | [Christopher Truong](https://github.com/cStruong) | [Sadie Bennett](https://github.com/sadiebennett1) |
