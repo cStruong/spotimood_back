@@ -32,3 +32,12 @@ rails s -p 3005
 ### Example Page
 
 ![Example API Page](/assets/spotimoodexampleAPI.png)
+
+### Example API Endpoints
+```
+localhost:3005/playlists
+```
+or
+```
+localhost:3005/songs
+```
